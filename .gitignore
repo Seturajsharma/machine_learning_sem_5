@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+.vscode/
+# MLflow local tracking files
+mlflow.db
+mlflow.db-shm
+mlflow.db-wal
+mlruns/
+# Large profiler output
+lab06/results/profiler_trace.json
